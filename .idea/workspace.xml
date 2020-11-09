@@ -61,6 +61,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -199,7 +200,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\ZHOU\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -211,7 +212,7 @@
       <workItem from="1604891587216" duration="822000" />
       <workItem from="1604892482658" duration="7556000" />
       <workItem from="1604905789685" duration="2922000" />
-      <workItem from="1604911826065" duration="1362000" />
+      <workItem from="1604911826065" duration="2361000" />
     </task>
     <task id="LOCAL-00001" summary="这是一个maven-servlet的crud项目">
       <created>1604912402242</created>
@@ -220,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604912402243</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="maven-servlet的crud项目">
+      <created>1604913237365</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604913237365</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +236,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="这是一个maven-servlet的crud项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="这是一个maven-servlet的crud项目" />
+    <MESSAGE value="maven-servlet的crud项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="maven-servlet的crud项目" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604895487469">
@@ -243,10 +252,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="275" y="30" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1366.738@0.0.1366.738" timestamp="1604895201626" />
-    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1604912398876">
+    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1604913234640">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604912398876" />
+    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604913234640" />
     <state x="463" y="113" key="FileChooserDialogImpl" timestamp="1604912145979">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -307,13 +316,25 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1604912136194" />
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1604912872839">
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1604913252658">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604912872839" />
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604913252658" />
     <state x="399" y="99" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1604895738748">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="399" y="99" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.738@0.0.1366.738" timestamp="1604895738748" />
+    <state x="477" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604914365454">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="477" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1604914365454" />
+    <state x="354" y="171" key="git4idea.merge.GitPullDialog" timestamp="1604913624766">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="354" y="171" key="git4idea.merge.GitPullDialog/0.0.1366.738@0.0.1366.738" timestamp="1604913624766" />
+    <state x="513" y="163" key="svn.repositoryBrowser" timestamp="1604913524923">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="513" y="163" key="svn.repositoryBrowser/0.0.1366.738@0.0.1366.738" timestamp="1604913524923" />
   </component>
 </project>
