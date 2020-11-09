@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68ffd407-a8de-49e5-a4a7-76426c974cee" name="Default Changelist" comment="" />
+    <list default="true" id="68ffd407-a8de-49e5-a4a7-76426c974cee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +62,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\QF\第三阶段\project\maven-servlet\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -82,6 +91,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1k2H5QITId9GOQnAVJV2GRjqtNS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -201,12 +211,24 @@
       <workItem from="1604891587216" duration="822000" />
       <workItem from="1604892482658" duration="7556000" />
       <workItem from="1604905789685" duration="2922000" />
-      <workItem from="1604911826065" duration="305000" />
+      <workItem from="1604911826065" duration="1362000" />
     </task>
+    <task id="LOCAL-00001" summary="这是一个maven-servlet的crud项目">
+      <created>1604912402242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604912402243</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="这是一个maven-servlet的crud项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="这是一个maven-servlet的crud项目" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604895487469">
@@ -221,10 +243,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="275" y="30" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1366.738@0.0.1366.738" timestamp="1604895201626" />
-    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1604912225309">
+    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1604912398876">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604912225309" />
+    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604912398876" />
     <state x="463" y="113" key="FileChooserDialogImpl" timestamp="1604912145979">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -285,10 +307,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1604912136194" />
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1604912259251">
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1604912872839">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604912259251" />
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604912872839" />
     <state x="399" y="99" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1604895738748">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
