@@ -73,7 +73,7 @@ public class UserDaoImpl implements UserDao {
                 user.setSex(resultSet.getString("sex"));
                 user.setAddress(resultSet.getString("address"));
             }
-            return list;
+            return user;
         }catch (Exception e){
             e.printStackTrace();
         }finally{
@@ -98,16 +98,93 @@ public class UserDaoImpl implements UserDao {
 
     @Override
     public Integer updateById(User user) {
+        Connection con = null;
+        PreparedStatement ps = null;
+        try {
+            Class.forName("com.mysql.jdbc.Driver");
+
+            con = DriverManager.getConnection("jdbc:mysql://localhost:3306/mishop?characterEncoding=utf-8", "root", "1234");
+            ps = con.prepareStatement("update user set username=?,sex=?,address=? where id=?");
+            ps.setObject(1,user.getUsername());
+            ps.setObject(2,user.getSex());
+            ps.setObject(3,user.getAddress());
+            ps.setObject(4,user.getId());
+            int i = ps.executeUpdate();
+            return i;
+        }catch (Exception e){
+            e.printStackTrace();
+        }finally{
+            try {
+                ps.close();
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+            try {
+                con.close();
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+        }
         return null;
     }
 
     @Override
     public Integer deleteById(Integer id) {
+        Connection con = null;
+        PreparedStatement ps = null;
+        try {
+            Class.forName("com.mysql.jdbc.Driver");
+
+            con = DriverManager.getConnection("jdbc:mysql://localhost:3306/mishop?characterEncoding=utf-8", "root", "1234");
+            ps = con.prepareStatement("delete from user where id=?");
+            ps.setObject(1,id);
+            int i = ps.executeUpdate();
+            return i;
+        }catch (Exception e){
+            e.printStackTrace();
+        }finally{
+            try {
+                ps.close();
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+            try {
+                con.close();
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+        }
         return null;
     }
 
     @Override
     public Integer add(User user) {
+        Connection con = null;
+        PreparedStatement ps = null;
+        try {
+            Class.forName("com.mysql.jdbc.Driver");
+
+            con = DriverManager.getConnection("jdbc:mysql://localhost:3306/mishop?characterEncoding=utf-8", "root", "1234");
+            ps = con.prepareStatement("insert into user values(null,?,?,?)");
+            ps.setObject(1,user.getUsername());
+            ps.setObject(2,user.getSex());
+            ps.setObject(3,user.getAddress());
+            int i = ps.executeUpdate();
+            return i;
+        }catch (Exception e){
+            e.printStackTrace();
+        }finally{
+            try {
+                ps.close();
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+            try {
+                con.close();
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+        }
         return null;
     }
 }

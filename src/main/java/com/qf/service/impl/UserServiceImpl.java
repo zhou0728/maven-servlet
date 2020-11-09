@@ -11,9 +11,30 @@ import java.util.List;
  * @create 2020/11/9 12:00
  */
 public class UserServiceImpl implements UserService {
+    private UserDaoImpl userDao = new UserDaoImpl();
+
     @Override
     public List<User> selectAll() {
-        UserDaoImpl userDao = new UserDaoImpl();
         return userDao.selectAll();
+    }
+
+    @Override
+    public User selectOne(Integer id) {
+        return userDao.selectOne(id);
+    }
+
+    @Override
+    public Integer updateById(User user) {
+        return userDao.updateById(user);
+    }
+
+    @Override
+    public Integer deleteById(Integer id) {
+        return userDao.deleteById(id);
+    }
+
+    @Override
+    public Integer add(User user) {
+        return userDao.add(user);
     }
 }

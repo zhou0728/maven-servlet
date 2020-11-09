@@ -19,6 +19,7 @@
                 <th>姓名</th>
                 <th>性别</th>
                 <th>地址</th>
+                <th>操作</th>
             </tr>
             <c:forEach items="${users}" var="user">
                 <tr>
@@ -26,6 +27,11 @@
                     <th>${user.username}</th>
                     <th>${user.sex}</th>
                     <th>${user.address}</th>
+                    <th>
+                        <a href="selectOne?id=${user.id}">修改</a>
+                        <a href="delete?id=${user.id}">删除</a>
+                        <a href="user_add.jsp">增加</a>
+                    </th>
                 </tr>
             </c:forEach>
         </table>
