@@ -14,9 +14,9 @@
     </head>
     <body>
         <form action="add" method="post">
-            用户名：<input type="text" name="username" value="${user.username}"><br>
-            性别：<input type="text" name="sex" value="${user.sex}"><br>
-            地址：<input type="text" name="address" value="${user.address}"><br>
+            用户名：<input type="text" name="username" value="${user.username}"><br><br>
+            性别：<input type="text" name="sex" value="${user.sex}"><br><br>
+            地址：<input type="text" name="address" value="${user.address}"><br><br>
             <input type="submit" value="增加">
         </form>
     </body>

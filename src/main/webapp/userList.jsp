@@ -13,7 +13,7 @@
         <title>Title</title>
     </head>
     <body>
-        <table border="1">
+        <table border="1" align="auto">
             <tr>
                 <th>id</th>
                 <th>姓名</th>

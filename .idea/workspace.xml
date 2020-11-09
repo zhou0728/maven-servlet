@@ -6,20 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68ffd407-a8de-49e5-a4a7-76426c974cee" name="Default Changelist" comment="maven-servlet的crud项目1222">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/controller/SelectOneController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/controller/UserAddController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/controller/UserDeleteByIdController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/controller/UserUpdateController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/user_add.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/user_update.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="68ffd407-a8de-49e5-a4a7-76426c974cee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qf/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qf/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qf/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qf/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qf/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qf/service/impl/UserServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/userList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/userList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/user_add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/user_add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/user_update.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/user_update.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +214,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
@@ -250,7 +241,7 @@
       <workItem from="1604892482658" duration="7556000" />
       <workItem from="1604905789685" duration="2922000" />
       <workItem from="1604911826065" duration="3500000" />
-      <workItem from="1604917914056" duration="5850000" />
+      <workItem from="1604917914056" duration="6498000" />
     </task>
     <task id="LOCAL-00001" summary="这是一个maven-servlet的crud项目">
       <created>1604912402242</created>
@@ -308,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604921871159</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="maven-servlet的crud项目">
+      <created>1604926417154</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604926417154</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,10 +314,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="这是一个maven-servlet的crud项目" />
-    <MESSAGE value="maven-servlet的crud项目" />
     <MESSAGE value="maven-servlet的crud项目111" />
     <MESSAGE value="maven-servlet的crud项目1222" />
-    <option name="LAST_COMMIT_MESSAGE" value="maven-servlet的crud项目1222" />
+    <MESSAGE value="maven-servlet的crud项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="maven-servlet的crud项目" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604895487469">
@@ -334,10 +332,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="275" y="30" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1366.738@0.0.1366.738" timestamp="1604895201626" />
-    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1604921942154">
+    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1604926415053">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604921942154" />
+    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604926415053" />
     <state x="129" y="56" key="DiffContextDialog" timestamp="1604922183032">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -418,10 +416,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="186" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1604924415964" />
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1604922184081">
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1604926445671">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604922184081" />
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604926445671" />
     <state x="399" y="99" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1604922800258">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

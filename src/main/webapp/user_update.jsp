@@ -13,11 +13,11 @@
         <title>Title</title>
     </head>
     <body>
-        <form action="update" method="post">
-            <input hidden type="text" name="id" value="${user.id}"><br>
-            <input type="text" name="username" value="${user.username}"><br>
-            <input type="text" name="sex" value="${user.sex}"><br>
-            <input type="text" name="address" value="${user.address}"><br>
+        <form action="update" method="post" >
+            <input hidden type="text" name="id" value="${user.id}"><br><br>
+            <input type="text" name="username" value="${user.username}"><br><br>
+            <input type="text" name="sex" value="${user.sex}"><br><br>
+            <input type="text" name="address" value="${user.address}"><br><br>
             <input type="submit" value="修改">
         </form>
     </body>
