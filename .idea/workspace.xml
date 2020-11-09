@@ -7,8 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68ffd407-a8de-49e5-a4a7-76426c974cee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/704c654a-dbd9-4489-b286-14cf9441a6e8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/704c654a-dbd9-4489-b286-14cf9441a6e8.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qf/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qf/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qf/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qf/dao/impl/UserDaoImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,6 +216,7 @@
       <workItem from="1604892482658" duration="7556000" />
       <workItem from="1604905789685" duration="2922000" />
       <workItem from="1604911826065" duration="3500000" />
+      <workItem from="1604917914056" duration="1609000" />
     </task>
     <task id="LOCAL-00001" summary="这是一个maven-servlet的crud项目">
       <created>1604912402242</created>
@@ -282,10 +285,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="137" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1604895487469" />
-    <state x="488" y="88" key="#com.intellij.ide.util.MemberChooser" timestamp="1604894450915">
+    <state x="488" y="88" key="#com.intellij.ide.util.MemberChooser" timestamp="1604921738434">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="488" y="88" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1604894450915" />
+    <state x="488" y="88" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1604921738434" />
     <state x="275" y="30" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1604895201626">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -354,10 +357,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1604915366523" />
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1604915089258">
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1604921704025">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604915089258" />
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604921704025" />
     <state x="399" y="99" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1604895738748">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
