@@ -6,28 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68ffd407-a8de-49e5-a4a7-76426c974cee" name="Default Changelist" comment="修改换行">
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/controller/SelectOneController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/controller/SelectOneController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/controller/UserAddController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/controller/UserAddController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/controller/UserDeleteByIdController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/controller/UserDeleteByIdController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/controller/UserUpdateController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/controller/UserUpdateController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/dao/impl/UserDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/service/impl/UserServiceImpl.java" afterDir="false" />
+    <list default="true" id="68ffd407-a8de-49e5-a4a7-76426c974cee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,7 +118,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -254,7 +234,7 @@
       <workItem from="1604905789685" duration="2922000" />
       <workItem from="1604911826065" duration="3500000" />
       <workItem from="1604917914056" duration="7144000" />
-      <workItem from="1604968065436" duration="804000" />
+      <workItem from="1604968065436" duration="1411000" />
     </task>
     <task id="LOCAL-00001" summary="这是一个maven-servlet的crud项目">
       <created>1604912402242</created>
@@ -326,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604926788634</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="修改换行">
+      <created>1604969023620</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604969023620</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,18 +343,18 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="275" y="30" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1366.738@0.0.1366.738" timestamp="1604895201626" />
-    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1604968977767">
+    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1604969021071">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604968977767" />
+    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604969021071" />
     <state x="129" y="56" key="DiffContextDialog" timestamp="1604968837518">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="129" y="56" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1604968837518" />
-    <state x="463" y="113" key="FileChooserDialogImpl" timestamp="1604968587572">
+    <state x="463" y="113" key="FileChooserDialogImpl" timestamp="1604969318990">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="113" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1604968587572" />
+    <state x="463" y="113" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1604969318990" />
     <state width="1323" height="93" key="GridCell.Tab.0.bottom" timestamp="1604968869193">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -436,10 +423,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1366.738@0.0.1366.738" timestamp="1604893166162" />
-    <state x="186" y="0" key="SettingsEditor" timestamp="1604968579039">
+    <state x="186" y="0" key="SettingsEditor" timestamp="1604969093623">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="186" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1604968579039" />
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1604969093623" />
     <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1604926797635">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -456,9 +443,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="354" y="171" key="git4idea.merge.GitPullDialog/0.0.1366.738@0.0.1366.738" timestamp="1604913624766" />
-    <state x="513" y="163" key="svn.repositoryBrowser" timestamp="1604913524923">
+    <state x="513" y="163" key="svn.repositoryBrowser" timestamp="1604969289577">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="513" y="163" key="svn.repositoryBrowser/0.0.1366.738@0.0.1366.738" timestamp="1604913524923" />
+    <state x="513" y="163" key="svn.repositoryBrowser/0.0.1366.738@0.0.1366.738" timestamp="1604969289577" />
   </component>
 </project>
